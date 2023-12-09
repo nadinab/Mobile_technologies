@@ -1,3 +1,3 @@
-В папке trunk создайте каталог, именованный след. образом : "Имя_Фамилия_Группа"
-Далее в данный каталог загрузите каталоги с лабораторными работами, именую каталоги по след. принципу:"lab_НОМЕР ЛАБ. РАБОТЫ"
-После разместите запрос на вытягивание (pull_request)
+In the trunk folder, create a directory named trail. image: "First Name_Last Name_Group"
+Next, upload directories with laboratory work into this directory, naming the directories as follows. principle: "lab_LAB WORK NUMBER"
+Then post a pull request (pull_request)
