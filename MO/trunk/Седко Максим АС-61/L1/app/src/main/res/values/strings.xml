@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Память</string>
+    <string name="app_name">Игра Память</string>
     <string name="button_restart">Заново</string>
     <string name="button_my_info_in">Разработал Седко</string>
     <string name="button_my_info_out">Назад</string>
