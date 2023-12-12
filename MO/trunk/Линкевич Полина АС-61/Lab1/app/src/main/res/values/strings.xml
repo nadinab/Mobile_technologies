@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Title">The game  \"Memory\"</string>
+    <string name="confTitle">Configure the game:</string>
+    <string name="ok_button">Start</string>
+    <string name="restart_button">Restart game</string>
+    <string name="str_width">Count of columns:</string>
+    <string name="str_height">Count of rows:</string>
+
+    <string-array name="numbers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
