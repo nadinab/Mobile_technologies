@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="Info">This app demonstrate working with audio, video, camera and gallery</string>
+</resources>
