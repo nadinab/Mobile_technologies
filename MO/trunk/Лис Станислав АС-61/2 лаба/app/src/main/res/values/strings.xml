@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2SecondEdition</string>
+    <string name="button">Button</string>
+    <string name="sendRequest">Отправить запрос</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developed_by">Лис Станислав</string>
+</resources>
