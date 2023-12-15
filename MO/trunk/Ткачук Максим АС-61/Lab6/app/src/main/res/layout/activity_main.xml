@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDD835"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/downloading_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="28dp"
+        android:gravity="center_horizontal"
+        android:text="Разработал Ткачук Максим"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Выберите один из пунктов:"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/camera_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Работа с камерой для создания снимков"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:rippleColor="#751A8E"
+        app:strokeColor="#706091" />
+
+    <Button
+        android:id="@+id/audio_video_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Воспроизведение аудио и видео"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:rippleColor="#1E88E5"
+        app:strokeColor="#00897B" />
+
+    <Button
+        android:id="@+id/image_button"
+        android:layout_width="match_parent"
+        android:layout_height="59dp"
+        android:text="Просмотр изображений"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:rippleColor="#4B2E1616"
+        app:strokeColor="#852828" />
+
+</LinearLayout>

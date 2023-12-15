@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/play_audio_button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:text="Воспроизвести аудио"
+        app:rippleColor="#1E2D87"
+        app:strokeColor="#747CAF" />
+
+    <TextView
+        android:id="@+id/downloading_text"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="28dp"
+        android:gravity="center_horizontal"
+        android:text="Разработал Ткачук Максим"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/play_video_button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Воспроизвести видео"
+        app:rippleColor="#ED4F1E"
+        app:strokeColor="#C3674B" />
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="535dp" />
+
+</LinearLayout>
