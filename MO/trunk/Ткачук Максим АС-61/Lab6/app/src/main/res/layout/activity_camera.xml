@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/capture_button"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="Сделать снимок (Ткачук Максим)"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        app:rippleColor="#B61D1D"
+        app:strokeColor="#FCC11313" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAF3F3"
+        android:backgroundTint="#FAF3F3"
+        android:foregroundTint="#FFFFFF" />
+
+</LinearLayout>
