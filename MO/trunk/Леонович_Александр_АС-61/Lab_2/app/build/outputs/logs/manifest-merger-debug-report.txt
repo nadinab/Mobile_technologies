@@ -1,0 +1,292 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Leono\.gradle\caches\transforms-3\d0722605ffaf54147d1d4e4b44386dd3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\99d26868cf67cb0e94460f25160cbfc3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\e4fffbb63c67853452056c3794a13b8c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\7cac92c207fb51507ee8a79fcd63fe3a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\5523ca0f4a133984f19d65391963f5a1\transformed\jetified-glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\e976748970321fd76586ce7b68364ecd\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Leono\.gradle\caches\transforms-3\88982c651bb8de0d2931418b25a33fde\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\799fe84b72888b77b28e7690e0d88eb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\26c1fea636cffd7e2fea6930265f6315\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3283478ac99a48e7118fc65cfa6298c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1027b2177de425e1114e19a2f424757c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\8f490ba42ab6230200283a16dfef5d9e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\4516820276ccc0b440cd3a26d590f959\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Leono\.gradle\caches\transforms-3\6ae9ad432354632f5a2086e1d976737a\transformed\recyclerview-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\e1bfa239e23cb30f7d03566f0428c2b2\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\4655b440ac2cbec1247081d117b8f855\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\638171a0cc4b8cb67a4bfa09f29057b2\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\845e4b26d75c719513a8c863dd6c020b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\46c8c1f30d8eda3ee8d0210d773d8f34\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\f50bf17b40f1d8711e8b78ce6b355eda\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\0cf2ce3eace4052cbc2c5095857388f1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\5bd1c36e8c1e4a6c2e9f07b35ffb76fa\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ddf63eb78c99732f736655fbdc489f58\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\a57789b5bf8a469b51e48186e9f8f7a0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\4d7ee437b044500f658c1e8cef5417f6\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\cd27f56c4c5c8668647494d3f0e69b81\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\f2d47923da7afcbd978cf04cb647088d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\61f1f412bf5cab3d4beab81a156867d4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3c1418d501a2b2b1cf8b4923a7d52027\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Leono\.gradle\caches\transforms-3\81f6244adc4eeae0238ce078d5622ce2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\234fe6c102b3644b1b1cd3c8b8bfc16d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\405723451d6c087cccd452c2e6e0a5dd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\50abb62ae55bb3e8917f8c44062f96a3\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\17b09d0158ef8f488ec85a22bd5916b6\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ac6f6b42ff2d571d7548f041f62b81ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\9f9d2e17c7b818e9adc69d35885ddbcd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leono\.gradle\caches\transforms-3\018cdfca01e299af851ce6029b458823\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\26a79041d73d7a5993a6565265bed132\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Leono\.gradle\caches\transforms-3\8f645d81ad7307531298c727f297653f\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\6cc6cadc8386daf0f78f056f02e45b0a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\502ea337f5a92d5053470c7d89372165\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3f84bc810655c212fef0df68a6ce6273\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1e22472eacda350b66bfa2d3fcf7fa0d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ebf21dc59bb9e3b6535cea1deb8b39db\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:15:1-20:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Leono\.gradle\caches\transforms-3\d0722605ffaf54147d1d4e4b44386dd3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Leono\.gradle\caches\transforms-3\d0722605ffaf54147d1d4e4b44386dd3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\9f9d2e17c7b818e9adc69d35885ddbcd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\9f9d2e17c7b818e9adc69d35885ddbcd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:14:9-36
+activity#by.brstu.redlabrat.testlistapp.MainActivity
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:exported
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:15:48-71
+	android:name
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Leono\.gradle\caches\transforms-3\d0722605ffaf54147d1d4e4b44386dd3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Leono\.gradle\caches\transforms-3\d0722605ffaf54147d1d4e4b44386dd3\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\99d26868cf67cb0e94460f25160cbfc3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\99d26868cf67cb0e94460f25160cbfc3\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\e4fffbb63c67853452056c3794a13b8c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Leono\.gradle\caches\transforms-3\e4fffbb63c67853452056c3794a13b8c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\7cac92c207fb51507ee8a79fcd63fe3a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\7cac92c207fb51507ee8a79fcd63fe3a\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\5523ca0f4a133984f19d65391963f5a1\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\5523ca0f4a133984f19d65391963f5a1\transformed\jetified-glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\e976748970321fd76586ce7b68364ecd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\e976748970321fd76586ce7b68364ecd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Leono\.gradle\caches\transforms-3\88982c651bb8de0d2931418b25a33fde\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Leono\.gradle\caches\transforms-3\88982c651bb8de0d2931418b25a33fde\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\799fe84b72888b77b28e7690e0d88eb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\799fe84b72888b77b28e7690e0d88eb0\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\26c1fea636cffd7e2fea6930265f6315\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\26c1fea636cffd7e2fea6930265f6315\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3283478ac99a48e7118fc65cfa6298c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3283478ac99a48e7118fc65cfa6298c3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1027b2177de425e1114e19a2f424757c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1027b2177de425e1114e19a2f424757c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\8f490ba42ab6230200283a16dfef5d9e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\8f490ba42ab6230200283a16dfef5d9e\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\4516820276ccc0b440cd3a26d590f959\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\4516820276ccc0b440cd3a26d590f959\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Leono\.gradle\caches\transforms-3\6ae9ad432354632f5a2086e1d976737a\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Leono\.gradle\caches\transforms-3\6ae9ad432354632f5a2086e1d976737a\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\e1bfa239e23cb30f7d03566f0428c2b2\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\e1bfa239e23cb30f7d03566f0428c2b2\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\4655b440ac2cbec1247081d117b8f855\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\4655b440ac2cbec1247081d117b8f855\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\638171a0cc4b8cb67a4bfa09f29057b2\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Leono\.gradle\caches\transforms-3\638171a0cc4b8cb67a4bfa09f29057b2\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\845e4b26d75c719513a8c863dd6c020b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\845e4b26d75c719513a8c863dd6c020b\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\46c8c1f30d8eda3ee8d0210d773d8f34\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\46c8c1f30d8eda3ee8d0210d773d8f34\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\f50bf17b40f1d8711e8b78ce6b355eda\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\f50bf17b40f1d8711e8b78ce6b355eda\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\0cf2ce3eace4052cbc2c5095857388f1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\0cf2ce3eace4052cbc2c5095857388f1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\5bd1c36e8c1e4a6c2e9f07b35ffb76fa\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\5bd1c36e8c1e4a6c2e9f07b35ffb76fa\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ddf63eb78c99732f736655fbdc489f58\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ddf63eb78c99732f736655fbdc489f58\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\a57789b5bf8a469b51e48186e9f8f7a0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\a57789b5bf8a469b51e48186e9f8f7a0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\4d7ee437b044500f658c1e8cef5417f6\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\4d7ee437b044500f658c1e8cef5417f6\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\cd27f56c4c5c8668647494d3f0e69b81\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\cd27f56c4c5c8668647494d3f0e69b81\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\f2d47923da7afcbd978cf04cb647088d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leono\.gradle\caches\transforms-3\f2d47923da7afcbd978cf04cb647088d\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\61f1f412bf5cab3d4beab81a156867d4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\61f1f412bf5cab3d4beab81a156867d4\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3c1418d501a2b2b1cf8b4923a7d52027\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3c1418d501a2b2b1cf8b4923a7d52027\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Leono\.gradle\caches\transforms-3\81f6244adc4eeae0238ce078d5622ce2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Leono\.gradle\caches\transforms-3\81f6244adc4eeae0238ce078d5622ce2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\234fe6c102b3644b1b1cd3c8b8bfc16d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\234fe6c102b3644b1b1cd3c8b8bfc16d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\405723451d6c087cccd452c2e6e0a5dd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\405723451d6c087cccd452c2e6e0a5dd\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\50abb62ae55bb3e8917f8c44062f96a3\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Leono\.gradle\caches\transforms-3\50abb62ae55bb3e8917f8c44062f96a3\transformed\jetified-gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\17b09d0158ef8f488ec85a22bd5916b6\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Leono\.gradle\caches\transforms-3\17b09d0158ef8f488ec85a22bd5916b6\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ac6f6b42ff2d571d7548f041f62b81ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ac6f6b42ff2d571d7548f041f62b81ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\9f9d2e17c7b818e9adc69d35885ddbcd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\9f9d2e17c7b818e9adc69d35885ddbcd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leono\.gradle\caches\transforms-3\018cdfca01e299af851ce6029b458823\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leono\.gradle\caches\transforms-3\018cdfca01e299af851ce6029b458823\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\26a79041d73d7a5993a6565265bed132\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Leono\.gradle\caches\transforms-3\26a79041d73d7a5993a6565265bed132\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Leono\.gradle\caches\transforms-3\8f645d81ad7307531298c727f297653f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Leono\.gradle\caches\transforms-3\8f645d81ad7307531298c727f297653f\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\6cc6cadc8386daf0f78f056f02e45b0a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\6cc6cadc8386daf0f78f056f02e45b0a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\502ea337f5a92d5053470c7d89372165\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\502ea337f5a92d5053470c7d89372165\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3f84bc810655c212fef0df68a6ce6273\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\3f84bc810655c212fef0df68a6ce6273\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1e22472eacda350b66bfa2d3fcf7fa0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leono\.gradle\caches\transforms-3\1e22472eacda350b66bfa2d3fcf7fa0d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ebf21dc59bb9e3b6535cea1deb8b39db\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Leono\.gradle\caches\transforms-3\ebf21dc59bb9e3b6535cea1deb8b39db\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Games\android 2\Lab_3\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Leono\.gradle\caches\transforms-3\6a071a95179a4f3f188d33f660a2c0fa\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Leono\.gradle\caches\transforms-3\fce9ca6609a4991d3f750d4cbb5aef27\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Leono\.gradle\caches\transforms-3\20515aae6837e3a65e219bc39afa7fd6\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#by.brstu.redlabrat.testlistapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#by.brstu.redlabrat.testlistapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Leono\.gradle\caches\transforms-3\2f31b9f4cdd22cbe81af136a9f8a3e18\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Leono\.gradle\caches\transforms-3\3130a1a39f23a508c46a8a0033fe5460\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

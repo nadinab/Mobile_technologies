@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_white_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_white_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_grey600_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_black_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_white_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_white_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_black_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_black_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_grey600_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_grey600_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_white_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_grey600_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_grey600_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_grey600_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_black_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_grey600_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_grey600_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_white_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_grey600_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_grey600_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_white_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_grey600_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_grey600_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_grey600_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "by.brstu.redlabrat.testlistapp-merged_res-30:/layout_fragment_details.xml.flat",
+        "source": "by.brstu.redlabrat.testlistapp-main-32:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_white_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable_heart_red.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable\\heart_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_grey600_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_white_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_white_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_grey600_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_white_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_white_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_white_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_grey600_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_white_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_grey600_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_grey600_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_black_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_grey600_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_grey600_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_grey600_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_grey600_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_white_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_grey600_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_white_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_black_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\layout_fragment_favorites_list.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\layout\\fragment_favorites_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_black_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_black_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_black_18dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_grey600_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-mdpi_ic_heart_black_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-mdpi\\ic_heart_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-hdpi_ic_heart_black_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-hdpi\\ic_heart_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_grey600_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_white_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_black_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_white_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_black_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_black_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_white_36dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxxhdpi_ic_heart_black_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxxhdpi\\ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable_heart.xml.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable\\heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xhdpi_ic_heart_black_24dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xhdpi\\ic_heart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-merged_res-30:\\drawable-xxhdpi_ic_heart_white_48dp.png.flat",
+        "source": "C:\\Users\\max\\.gradle\\daemon\\7.4\\by.brstu.redlabrat.testlistapp-main-32:\\drawable-xxhdpi\\ic_heart_white_48dp.png"
+    }
+]

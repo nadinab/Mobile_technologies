@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_restart">Заново</string>
+    <string name="button_my_info_in">Разработал Седко</string>
+    <string name="button_my_info_out">Назад</string>
+    <string name="my_name">Седко М.В АС-61 Игра \"Память\"</string>
+    <string name="title_activity_my_info">Тайтл</string>
+    <string name="my_info">
+Лабораторная работа №1\n
+По дисциплине «Мобильные приложения для информационных систем»\n
+Тема: «Игра “Память” на андроид»\n
+Выполнил:\n
+Студент 3 курса\n
+Группы АС-61\n
+Седко Максим Викторович\n
+Средства реализации: при разработке приложения использовалась IDE Android Studio c платформа Android API 34, программный код написан на языке Java.
+</string>
+
+</resources>
