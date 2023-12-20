@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MEMORY</string>
+    <string name="Title">The game  \"Memory\"</string>
+    <string name="confTitle">Customization:</string>
+    <string name="ok_button">START</string>
+    <string name="restart_button">Restart game</string>
+    <string name="str_width">COLUMNS:</string>
+    <string name="str_height">ROWS:</string>
+
+    <string-array name="numbers">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
